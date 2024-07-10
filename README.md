@@ -1,2 +1,2 @@
 # full-crud-php3
-COMING SOON!
+JIKA GAGAL, ULANGI SEKALI LAGI
